@@ -5,7 +5,6 @@ title:  "Welcome to Arcane"
 date:   2022-08-26
 categories: Presentation
 ---
-
 ##Why Arcane?
 I needed a place to collect my thoughts and studies and make them available for free to anyone interested. In my Ph.D. journey, I am learning a lot of new and cool stuff concerning state-of-the-art AI technologies. I found a magical world capable of surprising you every time. The mystery behind the neural network, the exciting applications, everything there cooperates to mix reality with a dream. 
 
@@ -15,7 +14,9 @@ Less than ten years later (OMG, I am so old), AI solved the problem with the fam
 I remember I thought: "This is magic." And like many dreamers still waiting for Hogwart's invitation, I decided to join this magical world of AI and descend into its arcane knowledge. 
 Arcane was born from believing that knowledge should be free and available, so I want to do my little part to help others get comfortable with AI by sharing the little I have.
 I don't know how I am going to organize the blog yet, but something will happen!!
+
 See you soon!
+
 `Valgi0`
 
 
